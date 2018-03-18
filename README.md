@@ -5,7 +5,7 @@ The aim of this is to receive lots of results. There will be duplicates which ne
 
 ## Requirements
 - pipenv
-- Google maps apis enables
+- Google maps api's enabled
 
 ## Running
 - Copy credentials.example.py to credentials.py
